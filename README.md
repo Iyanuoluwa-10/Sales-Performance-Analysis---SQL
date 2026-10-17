@@ -6,11 +6,12 @@
 This project uses SQL Server Management Studio to explore, analyze sales dataset, and answer relevant business questions.
 
 ### Tools Used
-- SQL Server Management Studio for Importing data, accessing database tables, writing and executing SQL queries, and viewing query results
-- GitHub for portfolio building
+- Microsoft SQL Server for database management and query execution.
+- SQL Server Management Studio (SSMS) for Importing data, accessing database tables, writing and executing SQL queries, and viewing query results.
+- GitHub for portfolio building.
 
 ### Data Loading and Preparation
-The data was imported into SQL Server Management Studio, the database table, column names and data types were inspected, and the data was prepared for querying and analysis.
+The data was imported into Microsoft SQL Server using SQL Server Management Studio (SSMS), the database table, column names and data types were inspected, and the data was prepared for querying and analysis.
 
 ### Exploratory Data Analysis
 EDA involved the exploring of the data to answer some questions such as:
