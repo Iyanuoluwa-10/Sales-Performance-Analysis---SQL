@@ -23,6 +23,7 @@ The queries used in analyzing the data are:
  Calculated total sales for each product category to compare their sales performance.
  ```SELECT PRODUCT, SUM(TOTAL_REVENUE) AS [TOTAL SALES FOR EACH PRODUCT] FROM [dbo].[LITA CAPSTONE CSV] GROUP BY PRODUCT
 ```
+![Total sales by Product Category](Total sales for each product.png)
 
 **SQL Query**
 ```sql
