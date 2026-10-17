@@ -5,7 +5,7 @@
 ### Project Overview: 
 
 ### Tools Used
-- SQL Server Management Studio
+- SQL Server Management Studio for Importing data, accessing database tables, writing and executing SQL queries, and viewing query results
 - GitHub for portfolio building
 
 ### Data Preparation
